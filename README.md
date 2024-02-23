@@ -23,4 +23,4 @@ startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("nux://print?text=Encoded
 
 ## Deploy for yours only
 
-i can build for your Business for only $50 talk to me [ibnux](https://t.me/ibnux)
+i can build for your Business for only $10 or Rp. 100.000 talk to me [ibnux](https://t.me/ibnux)

@@ -2,6 +2,12 @@
 
 is a client to print phpnuxbill voucher or invoice to bluetooth Thermal Printer
 
+## Features
+
+- Open Cash Drawer
+- Auto Close after print
+- Printer Settings
+
 ## Download
 
 Download from [Release Page](https://github.com/hotspotbilling/android-printer/releases)
